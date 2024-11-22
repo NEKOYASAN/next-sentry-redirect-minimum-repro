@@ -1,9 +1,9 @@
-import {RedirectToExampleButton} from "~/app/_components/RedirectToExampleButton";
+import { RedirectToExampleButton } from '~/app/_components/RedirectToExampleButton';
 
 export default function Home() {
-    return (
-        <div>
-            <RedirectToExampleButton/>
-        </div>
-    );
+  return (
+    <div>
+      <RedirectToExampleButton />
+    </div>
+  );
 }
